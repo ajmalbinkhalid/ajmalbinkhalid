@@ -71,7 +71,7 @@ Tech: React, Next.js, Tailwind CSS
 
 ## 💼 Experience Journey
 
-🏢 **MERN Stack Developer Intern**  
+🏢 **MERN Stack Developer**  
 Urbanhub Innovations (Aug 2025 - Present)
 
 🏢 **Frontend Developer Intern**  
@@ -79,6 +79,9 @@ Techolas Technologies (Feb 2025 - Jul 2025)
 
 🏢 **Branch Accountant**  
 AM Motors (Dec 2023 - Dec 2024)
+
+🏢 **Accountant Trainee**  
+Sree sankracharya computer center (Dec 2022 - Dec 2023)
 
 ---
 
