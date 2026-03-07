@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 🎯 Full Stack Developer with strong frontend expertise  
-💻 Specialized in MERN Stack (MongoDB, Express, React, Node.js)  
+💻 Specialized in Python Full Stack (Django, Fastapi, MySql) & MERN Stack (MongoDB, Express, React, Node.js)  
 📊 Accounting domain knowledge + tech skills = business-focused solutions  
 ⚡ Fast learner & adaptable to any technology  
 🎨 Focused on clean UI, smooth UX & performance
