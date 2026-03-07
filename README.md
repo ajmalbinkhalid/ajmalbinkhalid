@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajmal Bin Khalid</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast 🚀</h3>
+<h3 align="center">Full Stack Developer | Python Developer | MERN Stack Enthusiast 🚀</h3>
 
 <p align="center">
   <i>Building scalable, modern & user-friendly web applications with passion and precision.</i>
